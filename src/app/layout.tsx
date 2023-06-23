@@ -8,7 +8,7 @@ import Providers from '@/components/Providers'
 
 export const metadata = {
   title: 'Breaddit',
-  description: 'A Reddit clone.',
+  description: 'bread reddit.',
 }
 
 const inter = Inter({ subsets: ['latin'] })
